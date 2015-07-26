@@ -1,0 +1,8 @@
+sensor_project/Sensors/ISensor.class
+sensor_project/migration/Migrate.class
+sensor_project/collectors/IDataTransformation.class
+sensor_project/collectors/ICollector.class
+sensor_project/migration/IMigrate.class
+sensor_project/collectors/CommonCollector.class
+sensor_project/Sensors/AbstractSensor.class
+sensor_project/Data/AbstractSensorData.class

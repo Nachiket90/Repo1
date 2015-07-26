@@ -1,0 +1,8 @@
+/home/nachiket/IOT_project/sensor_project-master/src/sensor_project/Data/AbstractSensorData.java
+/home/nachiket/IOT_project/sensor_project-master/src/sensor_project/Sensors/AbstractSensor.java
+/home/nachiket/IOT_project/sensor_project-master/src/sensor_project/collectors/IDataTransformation.java
+/home/nachiket/IOT_project/sensor_project-master/src/sensor_project/collectors/CommonCollector.java
+/home/nachiket/IOT_project/sensor_project-master/src/sensor_project/migration/IMigrate.java
+/home/nachiket/IOT_project/sensor_project-master/src/sensor_project/collectors/ICollector.java
+/home/nachiket/IOT_project/sensor_project-master/src/sensor_project/migration/Migrate.java
+/home/nachiket/IOT_project/sensor_project-master/src/sensor_project/Sensors/ISensor.java
