@@ -17,6 +17,6 @@ public class XmlFormatter extends Formatter {
 
     @Override
     public String formatData(String data) {
-
+        return data;
     }
 }

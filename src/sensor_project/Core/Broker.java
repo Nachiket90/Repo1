@@ -17,8 +17,7 @@ public abstract class Broker {
         this.p = p;
     }
 
-    public void init() {
-    }
+    public abstract void init(Properties p);
 
     public abstract int publishTopic(String topic, String message);
 
